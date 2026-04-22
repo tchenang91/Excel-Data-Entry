@@ -1,0 +1,7 @@
+# UT County Leads Scraper – Python dependencies
+# Install with:  pip install -r requirements.txt
+#                playwright install chromium
+
+playwright>=1.43.0
+pandas>=2.0.0
+openpyxl>=3.1.0        # Excel (.xlsx) engine used by pandas
